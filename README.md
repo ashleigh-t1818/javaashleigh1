@@ -1,3 +1,3 @@
 # javaashleigh1
 
-hello 
+This contains work from 1st semester java
